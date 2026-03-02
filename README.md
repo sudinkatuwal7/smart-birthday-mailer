@@ -111,12 +111,6 @@ python main.py
 
 ---
 
-## ⚠️ Security Note
-
-Do **not** store your email password directly in the code when publishing to GitHub. Use environment variables or a `.env` file instead.
-
----
-
 ## 📚 Learning Goals
 
 This project demonstrates:
